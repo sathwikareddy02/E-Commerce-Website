@@ -14,5 +14,6 @@
 ## Front-end
 
 ![1](https://user-images.githubusercontent.com/85176591/162998413-4872960f-b5f7-4a15-b5ea-1b8a3b040948.jpg)
-![2](https://user-images.githubusercontent.com/85176591/162998414-9780525c-b2a5-4e01-bb3d-8e95f36d864a.jpg)
+![image](https://user-images.githubusercontent.com/85176591/162998783-71fbbc4f-0e0e-4fb8-b397-05740a7b2ad8.png)
+
 
